@@ -1,0 +1,4 @@
+## ENAE788L: Optimal Estimation
+This repo includes my final project for ENAE788L: Optimal estimation, taken at the University of Maryland. The goal of this project was to review, critique, and make future recommendations for a journal paper covering an advanced estimation topic. I reviewed a work focused on estimating unsteady aerodynamics over an airfoil that estimated the 2D pressure distribution around the air foil from pressure measurements. This work used a EnKF overcome the computational limitations of the high-dimension space and showed promising results. 
+
+My written work (a 10 page critique with recommendations for improvement and future research topics) is found in Final Project > ENAE788L_final_proj_written. The associated presentation is at Final Projectg > ENAE788L_Mockler_finalproj.
